@@ -4147,7 +4147,7 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "./.yarn/cache/@npmcli-query-npm-3.0.0-53c05bcb30-7d8e2984f9.zip/node_modules/@npmcli/query/",\
         "packageDependencies": [\
           ["@npmcli/query", "npm:3.0.0"],\
-          ["postcss-selector-parser", "npm:6.0.13"]\
+          ["postcss-selector-parser", "npm:6.1.5"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -14771,10 +14771,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["postcss-selector-parser", [\
-      ["npm:6.0.13", {\
-        "packageLocation": "./.yarn/cache/postcss-selector-parser-npm-6.0.13-f732d92326-e779aa1f8c.zip/node_modules/postcss-selector-parser/",\
+      ["npm:6.1.5", {\
+        "packageLocation": "./.yarn/cache/postcss-selector-parser-npm-6.1.5-7a81aa8b56-bd6c1eddaf.zip/node_modules/postcss-selector-parser/",\
         "packageDependencies": [\
-          ["postcss-selector-parser", "npm:6.0.13"],\
+          ["postcss-selector-parser", "npm:6.1.5"],\
           ["cssesc", "npm:3.0.0"],\
           ["util-deprecate", "npm:1.0.2"]\
         ],\
